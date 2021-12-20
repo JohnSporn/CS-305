@@ -1,6 +1,6 @@
 # CS-305
-John Sporn
-Journal Quesions
+# John Sporn
+# Journal Quesions
 
 1. Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
